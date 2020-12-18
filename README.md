@@ -5,15 +5,15 @@
 ## :information_source: Genel Notlar
 - Steam ve Steam-dışı sürümlerde çalışır.
 - Oyun altyazı içermez, bu yüzden sadece arayüz çevrilidir.
+- Takıldığınız yerde yardımcı olması açısından belgeleri [Bölüm İsimleri](BolumIsimleri.md) ve [Satırlar](Satirlar.md) sayfasında çizelge olarak yayınladım.
 
 ## :camera: Ekran Görüntüleri
-<img src="https://i.imgur.com/li0tszg.jpg" width="480" height="270" /> <img src="https://i.imgur.com/pB5aYFM.jpg" width="480" height="270" /> <img src="https://i.imgur.com/mp0kDtl.jpg" width="480" height="270" /> <img src="https://i.imgur.com/8gKEzvk.jpg" width="480" height="270" /> <img src="https://i.imgur.com/wfMd2n8.jpg" width="480" height="270" />
+<img src="/EkranGoruntuleri/20201218214624_1.jpg" width="480" height="270" /><img src="/EkranGoruntuleri/20201218214629_1.jpg" width="480" height="270" />
+<img src="/EkranGoruntuleri/20201218214635_1.jpg" width="480" height="270" /><img src="/EkranGoruntuleri/20201218214652_1.jpg" width="480" height="270" />
 
-
-
-## :floppy_disk: İndirme Bağlantıları
-[HalfLifeTR.zip](https://github.com/qabRieL99/HalfLifeSerisiTurkce/files/5604479/HalfLifeTR.zip)
+## :floppy_disk: İndirme Bağlantısı
+[AntichamberTR v1.0.zip](https://github.com/qabRieL99/AntichamberTurkce/releases)
 
 ## :clipboard: Kurulum
- 1. Yamayı indirin
- 2. İçindeki dosyayı `Antichamber\UDKGame\CookedPC` klasörünün içine atın ve değişikliği kabul edin.
+1. Yamayı indirin
+2. İçindeki dosyayı `Antichamber\UDKGame\CookedPC` klasörünün içine atın ve değişikliği kabul edin.
