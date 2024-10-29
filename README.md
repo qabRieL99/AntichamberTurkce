@@ -8,8 +8,17 @@
 - Takıldığınız yerde yardımcı olması açısından belgeleri [Bölüm İsimleri](BolumIsimleri.md) ve [Satırlar](Satirlar.md) sayfasında çizelge olarak yayınladım.
 
 ## :camera: Ekran Görüntüleri
-<img src="/EkranGoruntuleri/20201218214624_1.jpg?raw=true" width="480" height="270" /><img src="/EkranGoruntuleri/20201218214629_1.jpg?raw=true" width="480" height="270" />
-<img src="/EkranGoruntuleri/20201218214635_1.jpg?raw=true" width="480" height="270" /><img src="/EkranGoruntuleri/20201218214652_1.jpg?raw=true" width="480" height="270" />
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%;"><img src="/EkranGoruntuleri/20201218214624_1.jpg?raw=true" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="/EkranGoruntuleri/20201218214629_1.jpg?raw=true" width="100%" height="auto" /></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="/EkranGoruntuleri/20201218214635_1.jpg?raw=true" width="100%" height="auto" /></td>
+    <td style="width: 50%;"><img src="/EkranGoruntuleri/20201218214652_1.jpg?raw=true" width="100%" height="auto" /></td>
+  </tr>
+</table>
+
 
 ## :floppy_disk: İndirme Bağlantısı
 [AntichamberTR v1.0.zip](https://github.com/qabRieL99/AntichamberTurkce/releases)
